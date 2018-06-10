@@ -74,6 +74,10 @@ img {
 	text-align: center;
 }
 
+footer {
+	word-wrap: break-word;
+}
+
 @media screen and (max-width: 780px) {
 
 	.header {
